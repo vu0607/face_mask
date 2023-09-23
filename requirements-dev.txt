@@ -1,4 +1,4 @@
-ultralytics
+ultralytics~=8.0.184
 chardet
 pyopenssl
 cryptography
