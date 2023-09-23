@@ -1,0 +1,5 @@
+ultralytics
+chardet
+pyopenssl
+cryptography
+charset-normalizer

@@ -1,0 +1,5 @@
+train: /home/vudangitwork/Documents/FTECH_Reposity/face_mask/data/train/images
+val: /home/vudangitwork/Documents/FTECH_Reposity/face_mask/data/val/images
+
+nc: 3
+names: ["without_mask", "with_mask", "mask_weared_incorrect"]
